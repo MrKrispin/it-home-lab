@@ -1,4 +1,4 @@
-# it-home-lab
+# IT Home Lab
 This repository documents my hands-on practice in systems administration, IT support, networking, security administration, and automation.
 
 ## Current Projects
