@@ -12,7 +12,7 @@ The physical topology illustrates how network equipment and end devices are inte
 
 ### Network Diagram
 
-![Physical Network Topology](screenshots/physical-topology.png)
+![Physical Network Topology](images/physical-topology.png)
 
 *Figure 1: Physical network topology showing the gateway, managed switch, patch panel, access point, and wired devices.*
 
@@ -53,19 +53,19 @@ The following photographs document the installed networking equipment and Ethern
 
 ### Main Network Equipment
 
-![Network Equipment](screenshots/network-equipment.jpg)
+![Network Equipment](images/network-equipment.jpg)
 
 *Figure 2: AT&T gateway, TP-Link SG2008 managed switch, and patch panel.*
 
 ### Wireless Access Point
 
-![Wireless Access Point](screenshots/access-point.jpg)
+![Wireless Access Point](images/access-point.jpg)
 
 *Figure 3: Ceiling-mounted TP-Link EAP723 access point.*
 
 ### Ethernet Termination
 
-![Ethernet Wall Plate](screenshots/ethernet-wall-plate.jpg)
+![Ethernet Wall Plate](images/ethernet-wall-plate.jpg)
 
 *Figure 4: Installed Cat6 keystone wall plate providing wired network connectivity.*
 
@@ -96,13 +96,13 @@ A logical topology diagram will be added after verifying the current addressing 
 
 ## 5. Planned Improvements
 
-- [ ] Verify and document physical switch port assignments.
-- [ ] Confirm the AT&T gateway model.
-- [ ] Record the LAN subnet and DHCP configuration.
-- [ ] Document infrastructure management IP addressing.
-- [ ] Add a logical network diagram.
-- [ ] Update the logical topology after guest network configuration.
-- [ ] Evaluate VLAN segmentation and routing requirements.
+- Verify and document physical switch port assignments.
+- Confirm the AT&T gateway model.
+- Record the LAN subnet and DHCP configuration.
+- Document infrastructure management IP addressing.
+- Add a logical network diagram.
+- Update the logical topology after guest network configuration.
+- Evaluate VLAN segmentation and routing requirements.
 
 ---
 
