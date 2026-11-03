@@ -32,6 +32,7 @@ The network also serves as a practical environment for exploring network adminis
 | Gateway / Router | AT&T Fiber Gateway |
 | Managed Switch | TP-Link Omada SG2008P |
 | Wireless Access Point | TP-Link Omada EAP723 |
+| Patch Panel | Cat 6 Keystone Patch Panel
 | Ethernet Cabling | Cat6 Solid Copper |
 | Ethernet Terminations | Keystone Jacks & Wall Plates |
 | Network Management | TP-Link Omada |
@@ -42,6 +43,7 @@ The network also serves as a practical environment for exploring network adminis
 
 - Planned Ethernet cable runs from the gateway location to rooms requiring wired connectivity.
 - Routed Cat6 cabling through accessible attic space.
+- Terminated and organized Ethernet cable runs using a keystone patch panel, allowing structured connections between the permanent cabling and network switch.
 - Installed Ethernet keystone jacks and wall plates.
 - Used network cable testing equipment to verify cable terminations.
 - Installed a hallway-mounted wireless access point to improve coverage.
